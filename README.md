@@ -1,4 +1,4 @@
-# $${\color{green}Tu}{\color{red}ga}$$ — Strata Fork para RX 9060 XT (gfx1200)
+# $${\Huge\color{green}Tu}{\Huge\color{red}ga}$$ — Strata Fork para RX 9060 XT (gfx1200)
 
 Fork experimental do [Strata](https://github.com/Niko1221/Strata) especializado para:
 
